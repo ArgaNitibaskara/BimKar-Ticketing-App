@@ -51,6 +51,7 @@
                 </a>
             </li>
 
+        </ul>
         <!-- logout -->
         <div class="w-full p-4">
             <form action="{{ route('logout') }}" method="POST">
